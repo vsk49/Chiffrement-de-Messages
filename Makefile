@@ -43,4 +43,4 @@ test: compile-test
 
 # crée l'archive du projet a envoyer sur moodle
 archive: clean
-	zip -r Sujet3_BOUDIN1_LFARH2_LONGUET3_NANAHA4.zip *
+	zip -r Sujet3_KOH1_LFARH2.zip *
