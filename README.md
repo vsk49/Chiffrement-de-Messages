@@ -7,13 +7,9 @@
 Groupe : A
 
 
-BOUDIN Raphael
+KOH Virgil Shaun
 
 LFARH Mouataz
-
-LONGUET Cédric
-
-NANAHA Hamza
 
 ### Code source
 
@@ -32,7 +28,7 @@ Mais bien sûr, avant cela, on vérifie que le message à chiffrer ne contient p
 De plus, nous avons codé une interface avec l'utilisateur pour qu'il puisse choisir de chiffrer ou déchiffrer un message, entrer la clé et afficher le résultat.
 Nous avons également ajouté quelques tests pour nous assurer que notre programme fonctionne comme nous le souhaitons. Ces fonctions de test sont présentes dans test/test.c
 
-### Strucure
+### Structure
 
 Notre code est structuré par catégories, chaque catégorie possede son dossier :
 
