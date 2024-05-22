@@ -10,13 +10,9 @@
 *                                                                             *
 *******************************************************************************
 *                                                                             *
-*  Nom-prénom1 : BOUDIN Raphael                                               *
+*  Nom-prénom1 : KOH Virgil Shaun                                             *
 *                                                                             *
 *  Nom-prénom2 : LFARH Mouataz                                                *
-*                                                                             *
-*  Nom-prénom3 : LONGUET Cédric                                               *
-*                                                                             *
-*  Nom-prénom4 : NANAHA Hamza                                                 *
 *                                                                             *
 *******************************************************************************
 *                                                                             *
