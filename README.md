@@ -4,18 +4,19 @@
 
 ### Equipe
 
-Groupe : A
-
+Groupe : C
 
 KOH Virgil Shaun
 
 LFARH Mouataz
 
+Ce répertoire montre comment chiffrer et dechiffrer un message donné par un utilisateur en César. La notion de chiffrement est hyper importante pour protéger l'activité des utilisateurs. A présent, la plupart des applications de messagerie, comme WhatsApp, Facebook Messenger et iMessage utilisent le chiffrement pour protéger le flux d’informations tout en empêchant d’éventuelles cyberattaques. On utilise le langage C pour le programmer. Dans cette documentation, on va tout d'abord expliquer le fonctionnement du chiffrement. Ensuite, on va expliquer la structure de ce répertoire pour mieux naviguer les fichiers correspondants. Enfin, on va présenter en bref le fonctionnement du fichier Makefile. 
+
 ### Code source
 
 Lien gitlab :
 
-https://gitlab.info.iut-tlse3.fr/nnh4810a/mini-projet-c
+https://gitlab.info.iut-tlse3.fr/khv4609a/Chiffrement-de-Messages
 
 ### Fonctionnement
 
